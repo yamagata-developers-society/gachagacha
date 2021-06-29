@@ -1,0 +1,20 @@
+{
+  "name": "gacha",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --spa",
+    "build": "nuxt build --spa",
+    "start": "nuxt start --spa",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "core-js": "^3.8.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nuxt": "^2.14.12",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {}
+}
