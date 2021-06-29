@@ -4,6 +4,10 @@
 - ガチャガチャを引くときは、メールアドレスを設定する。(ユーザを一意に特定するキーとなる)
 - 同一メールアドレスを指定してガチャガチャを引いた場合、同じ結果が取得される。(1人1回しか引けない仕様)
 
+# Demo
+
+![demo.gif](https://raw.githubusercontent.com/wiki/yamagata-developers-society/gachagacha/demo.gif)
+
 # Setup
 
 ## Database Setup
